@@ -148,6 +148,7 @@ export default {
     themes: ["light", "black", "autumn"],
   },
   plugins: [
+     require('autoprefixer'),
     require('daisyui'),
     
 
